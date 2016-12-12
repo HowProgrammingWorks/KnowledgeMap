@@ -1,0 +1,25 @@
+{
+  "name": "knawledgemap",
+  "version": "1.0.0",
+  "description": "Knowledge dependency map visualization tool",
+  "main": "lib/robot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HowProgrammingWorks/KnowledgeMap.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "Timur & Co.",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HowProgrammingWorks/KnowledgeMap/issues"
+  },
+  "homepage": "https://github.com/HowProgrammingWorks/KnowledgeMap#readme",
+  "dependencies": {
+    "metasync": "0.0.19"
+  }
+}
