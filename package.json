@@ -1,5 +1,5 @@
 {
-  "name": "knawledgemap",
+  "name": "knowledgemap",
   "version": "1.0.0",
   "description": "Knowledge dependency map visualization tool",
   "main": "lib/robot.js",
