@@ -1,6 +1,6 @@
 {
   "name": "knowledgemap",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Knowledge dependency map visualization tool",
   "main": "lib/robot.js",
   "scripts": {
@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/HowProgrammingWorks/KnowledgeMap#readme",
   "dependencies": {
-    "metasync": "0.0.19"
+    "metasync": "^0.3.8"
   }
 }
