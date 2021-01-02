@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/HowProgrammingWorks/KnowledgeMap#readme",
   "dependencies": {
-    "metasync": "^0.3.29"
+    "metasync": "^0.3.32"
   }
 }
